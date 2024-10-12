@@ -1,0 +1,9 @@
+Here's how the code works:
+
+1. We define a dictionary users to store usernames and passwords.
+2. The login function takes a username and password as input and checks if they match the stored values in the users dictionary. If they do, it returns True, otherwise it returns False.
+3. The main function is the entry point of the program. It prompts the user to enter their username and password.
+4. It then calls the login function with the input values and checks the result. If the login is successful, it prints a success message. Otherwise, it prints an error message.
+
+Note: This is a very basic implementation and you should not use it in production without proper security measures, such as hashing and salting passwords.
+

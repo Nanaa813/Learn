@@ -1,0 +1,4 @@
+Memory Management
+
+Definition: Efficient allocation and utilization of system memory.
+Key concepts: virtual memory, paging, swapping, memory allocation strategies.
