@@ -1,0 +1,20 @@
+Makalah ini bertujuan untuk menyelidiki bagaimana sistem berbasis web 
+dapat merevolusi cara toko beauty mengelola stok dan harga produk 
+beauty. Kami ingin menunjukkan bagaimana teknologi dapat membantu toko 
+beauty dalam menghadapi tantangan modern dan memberikan pengalaman yang 
+lebih baik bagi pelanggan.
+
+Kami menyadari bahwa makalah ini masih jauh dari sempurna, baik dari 
+segi isi maupun penyusunannya. Oleh karena itu, kami mengharapkan 
+kritik dan saran yang membangun dari para pembaca demi kesempurnaan 
+makalah ini di masa mendatang.
+
+Kami mengucapkan terima kasih kepada Bapak Ilham Julian Efendi, S.T., 
+M.T.  selaku dosen pengampu mata kuliah rekayasa perangkat lunak atas 
+bimbingan dan arahannya selama proses penyusunan makalah ini. Kami juga 
+mengucapkan terima kasih kepada semua pihak yang telah membantu dalam 
+penyelesaian makalah ini.
+
+Semoga makalah ini dapat bermanfaat bagi pembaca dan dapat menjadi 
+bahan referensi dalam memahami implementasi sistem pengecekan stok dan 
+harga beauty product pada toko beauty berbasis web.
