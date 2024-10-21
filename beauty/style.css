@@ -251,16 +251,16 @@ footer {
 	}
 
 /* Responsif */
-#bg-index @media (max-width: 600px) {
-    h1 {
+@media (max-width: 600px) {
+    #bg-index h1 {
         font-size: 2em;
     }
 
-   	p {
+    #bg-index p {
         font-size: 1em;
     }
     
-     button {
+    #bg-index button {
         width: 100%;
     }
 }
